@@ -5,12 +5,14 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B51954&center=true&vCenter=true&random=false&width=450&lines=I'M+HARITHAA;INFORMATION+TECHNOLOGY+UNDERGRADUATE;TECHNOLOGY+FREAK"></a>
 </div>
 
-<h2>:busts_in_silhouette: About Me</h2>
-<p>Hello! I'm a passionate and dedicated technology enthusiast currently pursuing dual degrees.</br>
-<h3>Education</h3>
+<h2>About Me</h2>
+<p>Hello! I'm Harithaa, a recent B.Tech graduate in Information Technology from the Government College of Technology, Coimbatore. I'm currently on an exciting journey pursuing a bachelors degree in Data Science and Programming (BS) from the esteemed Indian Institute of Technology, Madras.</br>
+<h3>Educational Journey</h3>
+
 1. Bachelor of Science (BS) in Data Science and Programming</br>
 Indian Institute of Technology, Madras</br>
 May 2020 - Dec 2026</br>
+
 2. Bachelor of Technology (BTech) in Information Technology</br>
 Government College of Technology, Coimbatore</br>
 2020 - 2024</br>

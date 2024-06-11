@@ -7,7 +7,7 @@
 
 <h2>About Me</h2>
 <p>Hello! I'm Harithaa, a recent B.Tech graduate in Information Technology from the Government College of Technology, Coimbatore. I'm currently on an exciting journey pursuing a bachelors degree in Data Science and Programming (BS) from the esteemed Indian Institute of Technology, Madras.</br>
-<h3>Educational Journey</h3>
+<h3>🎓Educational Journey</h3>
 
 1. Bachelor of Science (BS) in Data Science and Programming</br>
 Indian Institute of Technology, Madras</br>
@@ -16,8 +16,21 @@ May 2020 - Dec 2026</br>
 2. Bachelor of Technology (BTech) in Information Technology</br>
 Government College of Technology, Coimbatore</br>
 2020 - 2024</br>
-</p>
 
+<h3>🚀Passion and Skills</h3>
+
+I am deeply passionate about Data Science and AI technology. Here are a few highlights of my skill set:
+- 🐍 Python Proficiency: Crafting efficient, clean, and scalable code is my forte.
+- 🧠 Data Structures Expertise: A robust understanding of data structures and algorithms.
+- 🔢 Mathematical Acumen: A solid mathematical foundation that fuels my analytical abilities.
+
+<h3>🌟What's Next?</h3>
+
+I am eager to immerse myself in the dynamic world of Data Science and AI. I'm actively seeking opportunities to collaborate on cutting-edge projects, engage in impactful research, and contribute to pioneering initiatives in the tech industry.
+
+<h3>🌐Let's Connect</h3>
+
+I'm always excited to connect with like-minded professionals who share my enthusiasm for technology. Feel free to reach out to me on. Let's exchange ideas, share knowledge, and explore potential collaborations!
 </br>
 
 <h2>:busts_in_silhouette: How to reach me</h2>
